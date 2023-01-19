@@ -113,7 +113,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-AppleKevin1106 - [@AppleKevin1106](https://www.instagram.com/AppleKevin1106/) - applekevin10141106@gmail.com
+AppleKevin1106 - [@AppleKevin1106] - applekevin10141106@gmail.com
 
 Project Link: [Food-Ordering-App](https://github.com/AppleKevin1106/food-ordering/)
 
