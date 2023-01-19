@@ -5,11 +5,8 @@
   <p align="center">
     <b>Food-Ordering-App</b>
     <br />
-    <!-- <a href="https://github.com/yashfalke77">View Demo</a> -->
+    <!-- <a href="https://github.com/AppleKevin1106">View Demo</a> -->
     <!-- · -->
-    <a href="https://github.com/yashfalke77/food-ordering-app/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/yashfalke77/food-ordering-app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -77,7 +74,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/yashfalke77/food-ordering-app
+   git clone https://github.com/AppleKevin1106/food-ordering
    ```
 2. Install NPM packages
    ```sh
@@ -116,9 +113,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Yash Falke - [@yashfalke77](https://www.instagram.com/yashfalke77/) - yashfalke77@gmail.com
+AppleKevin1106 - [@yashfalke77](https://www.instagram.com/AppleKevin1106/) - applekevin10141106@gmail.com
 
-Project Link: [Food-Ordering-App](https://github.com/yashfalke77/food-ordering-app/)
+Project Link: [Food-Ordering-App](https://github.com/AppleKevin1106/food-ordering/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
